@@ -17,3 +17,5 @@ int main()
     }
     return 0;
 }
+
+//nagative value means a is smaller, 0 means equal, positive value means b is smaller
